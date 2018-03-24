@@ -1,0 +1,3 @@
+﻿'iexplore.exe' (Script): Loaded 'Script Code (‏‏Windows Internet Explorer)'. 
+The program '[18252] iexplore.exe' has exited with code 0 (0x0).
+The program '[13612] iisexpress.exe' has exited with code 0 (0x0).
